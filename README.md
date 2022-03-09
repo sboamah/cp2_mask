@@ -2,6 +2,8 @@
 ## HAR371: Creative Programming 2
 ### by Sylvia Boamah
 
+![image](https://user-images.githubusercontent.com/60356081/157490135-64268d5c-cc7d-4cda-a40d-9e9f92a3c4c7.png)
+
 #### Technologies used: [p5js](https://p5js.org/), [TensorFlow (Blazeface)](https://www.npmjs.com/package/@tensorflow-models/blazeface) 
 
 The goal of this project was to create a mask that visualizes at least **three** words that describe intimate parts of my life.
