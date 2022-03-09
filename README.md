@@ -14,9 +14,9 @@ The three words that I initially focused on were:
 From there, I wanted to create a visual that explores the tension between tradition and identity that may be shunned by one's culture. Envisioning a harmony between the two can seem like a fantasy, so I wanted to show that in some way. 
 
 #### To download
-* Clone the repositoty 
+1. Clone the repositoty 
 * Open inside text editor of choice (I used Visual Studio Code to create this project)
-* Run the project on your server (which will be shown as a local port on your computer)
-* Give permission to your computer camera
++ Run the project on your server (which will be shown as a local port on your computer)
+- Give permission to your computer camera
 
 
