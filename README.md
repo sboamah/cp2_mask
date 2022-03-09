@@ -15,8 +15,8 @@ From there, I wanted to create a visual that explores the tension between tradit
 
 #### To download
 1. Clone the repositoty 
-* Open inside text editor of choice (I used Visual Studio Code to create this project)
-+ Run the project on your server (which will be shown as a local port on your computer)
-- Give permission to your computer camera
+2. Open inside text editor of choice (I used Visual Studio Code to create this project)
+3. Run the project on your server (which will be shown as a local port on your computer)
+4. Give permission to your computer camera
 
 
