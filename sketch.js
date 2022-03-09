@@ -85,7 +85,6 @@ function draw() {
     
   
   }
-
   angle+=0.02;
 }
 
